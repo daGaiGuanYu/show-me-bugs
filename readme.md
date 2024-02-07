@@ -1,3 +1,5 @@
+[issue](https://github.com/arianrhodsandlot/nostalgist/issues/18)
+
 ``` bash
 git clone -b nostalgist240207 git@github.com:daGaiGuanYu/show-me-bugs.git
 cd show-me-bugs
